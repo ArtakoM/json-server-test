@@ -1,20 +1,11 @@
 {
-  "columns": [
+  "posts": [
     {
-      "id": "1",
-      "title": "To Do"
-    },
-    {
-      "id": "2",
-      "title": "In Progress"
-    },
-    {
-      "id": "3",
-      "title": "Done"
+      "id": 1,
+      "title": "hello"
     }
   ],
-  "users": [
-    "id": "1",
-    "username": "habibi"
-  ]
+  "profile": {
+    "name": "typicode"
+  }
 }
